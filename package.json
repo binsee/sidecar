@@ -1,5 +1,5 @@
 {
-  "name": "sidecar",
+  "name": "@binsee/sidecar",
   "version": "1.2.0",
   "description": "Sidecar is for easy hook/call in-process functions with TypeScript annotations.",
   "type": "module",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huan/sidecar.git"
+    "url": "git+https://github.com/binsee/sidecar.git"
   },
   "keywords": [
     "frida",
